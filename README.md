@@ -38,7 +38,7 @@
 You can download the latest version of the app from our GitHub Releases page:
 
 <p align="center">
-  <a href="https://github.com/HaroonRafiqueDev/pakazitics/releases/tag/tour">
+  <a href="https://github.com/HaroonRafiqueDev/pakazitics/releases/latest">
     <img src="https://img.shields.io/badge/Download%20APK-v1.0.0-success?style=for-the-badge&logo=android" alt="Download APK">
   </a>
 </p>
