@@ -35,9 +35,15 @@
 
 ## 📥 Download APK
 
-Experience the app on your Android device!
+You can download the latest version of the app from our GitHub Releases page:
 
-[**Download Pakazitics v1.0.0**](releases/pakazitics_v1.0.0.apk)
+<p align="center">
+  <a href="https://github.com/HaroonRafiqueDev/pakazitics/releases/tag/tour">
+    <img src="https://img.shields.io/badge/Download%20APK-v1.0.0-success?style=for-the-badge&logo=android" alt="Download APK">
+  </a>
+</p>
+
+> **Note:** Click the button above to visit the release page, then look for the **Assets** section to download the `.apk` file.
 
 ---
 
@@ -47,7 +53,7 @@ Experience the app on your Android device!
 - **Language**: [Dart](https://dart.dev/)
 - **Maps**: [flutter_map](https://pub.dev/packages/flutter_map), [latlong2](https://pub.dev/packages/latlong2)
 - **Location**: [geolocator](https://pub.dev/packages/geolocator)
-- **State Management**: `setState` (Clean & Simple)
+- **State Management**: [Provider](https://pub.dev/packages/provider)
 - **Storage**: [shared_preferences](https://pub.dev/packages/shared_preferences)
 - **UI/UX**: Custom Theming, Animations, Glassmorphism
 
