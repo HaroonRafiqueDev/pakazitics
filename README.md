@@ -91,10 +91,4 @@ Contributions are welcome! If you have any suggestions or find a bug, please ope
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 Made with ❤️ in Pakistan 🇵🇰
