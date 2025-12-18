@@ -10,11 +10,13 @@
 
 ## 📱 Screenshots
 
-| **Navigation & Maps** | **Explore Cities** |
+| **Splash Screen** | **Home Screen** |
 |:---:|:---:|
-| <img src="assets/screenshots/map_screen.jpg" width="300" alt="Map Screen"> | <img src="assets/images/cities/islamabad.jpg" width="300" alt="Home Screen" onerror="this.style.display='none'"> |
+| <img src="assets/screenshots/splash_screen.jpg" width="300" alt="Splash Screen"> | <img src="assets/screenshots/home_screen.jpg" width="300" alt="Home Screen"> |
 
-*(Note: More screenshots coming soon!)*
+| **City Details** | **Profile & Settings** |
+|:---:|:---:|
+| <img src="assets/screenshots/city_details.jpg" width="300" alt="City Details"> | <img src="assets/screenshots/profile_screen.jpg" width="300" alt="Profile Screen"> |
 
 ---
 
